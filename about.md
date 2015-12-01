@@ -1,6 +1,6 @@
 ---
-title: HistoryMakerProject
-permalink: /about/
+title: About
+permalink: /History Maker/
 ---
 
 <p class="lead"> This is to document the design process of History Maker. </p>

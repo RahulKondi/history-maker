@@ -8,7 +8,7 @@ name:               "Kondi"
 # URL
 baseurl:            ""
 #baseurl:            "" #For Root Domain
-permalink:          /:year/:month/:day/:title.html
+permalink:          /:year/:month/:day/:title
 
 # Markdown
 markdown:           rdiscount

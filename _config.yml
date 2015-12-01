@@ -8,7 +8,7 @@ name:               "Kondi"
 # URL
 baseurl:            "http://rahulkondi.github.io/"
 #baseurl:            "" #For Root Domain
-permalink:          /:year/:month/:day/:title
+permalink:          /:title
 
 # Markdown
 markdown:           rdiscount

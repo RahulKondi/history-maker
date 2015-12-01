@@ -1,9 +1,5 @@
-# # # # # # # #
-#   K i k o   #
-# # # # # # # #
-
 # Basic
-name:               "Kondi"
+name:               "History Maker"
 
 # URL
 baseurl:            "http://rahulkondi.github.io/"

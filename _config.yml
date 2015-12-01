@@ -6,7 +6,7 @@
 name:               "Kondi"
 
 # URL
-baseurl:            ""
+baseurl:            "http://rahulkondi.github.io"
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title
 

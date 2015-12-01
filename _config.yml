@@ -1,5 +1,5 @@
 # Basic
-name:               "RAHULKONDI"
+name:               "History Maker"
 
 # URL
 baseurl:            "http://rahulkondi.github.io/"
@@ -11,10 +11,10 @@ markdown:           rdiscount
 
 # Navigation
 nav:
-  - name:           "/About"
-    href:           "/HistoryMakerProject/"
-  - name:           "/RAHULKONDI"
-    href:           "/rahulkondi/"
+  - name:           "/history_maker"
+    href:           "/about/"
+  - name:           "/rahul_kondi"
+    href:           "/contact/"
 
 # Sass
 sass:

@@ -1,5 +1,5 @@
 ---
-title: HistoryMaker
+title: About
 permalink: /about/
 ---
 

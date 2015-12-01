@@ -11,9 +11,9 @@ markdown:           rdiscount
 
 # Navigation
 nav:
-  - name:           "/history_maker"
+  - name:           "/ About"
     href:           "/about/"
-  - name:           "/rahul_kondi"
+  - name:           "/ Rahul Kondi"
     href:           "/contact/"
 
 # Sass

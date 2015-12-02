@@ -2,7 +2,7 @@
 name:               "Rahul Kondi"
 
 # URL
-baseurl:            ""
+baseurl:            "http://rahulkondi.github.io"
 #baseurl:            "" #For Root Domain
 permalink:          /:title
 
@@ -11,6 +11,8 @@ markdown:           rdiscount
 
 # Navigation
 nav:
+  - name:           "/ Blog"
+    href:           "/blog/"
   - name:           "/ About"
     href:           "/about/"
   - name:           "/ Contact"

@@ -17,7 +17,8 @@ permalink: /projects/history-maker/
   <h2>No post found</h2>
 {% else %}
 {% for post in site.posts %}
-{% if post.type == 'project' && post.projectname == 'history-maker' %}
+{% if post.type == 'project' %}
+{% if post.projectname == 'history-maker' %}
   <div class="list-item">
     <h2 class="list-post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
@@ -26,6 +27,7 @@ permalink: /projects/history-maker/
       <time>{{ post.date | date_to_string }}</time>
     </div>
   </div>
+{% endif %}
 {% endif %}
 {% endfor %}
 {% endif %}

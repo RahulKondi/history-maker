@@ -17,7 +17,7 @@ permalink: /blog/
   <h2>No post found</h2>
 {% else %}
 {% for post in site.posts %}
-{% if post.type=='blog' %}
+{% if post.type == 'blog' %}
   <div class="list-item">
     <h2 class="list-post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>

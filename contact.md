@@ -1,5 +1,5 @@
 ---
-title: RahulKondi
+title: Contact Me
 permalink: /contact/
 ---
 <img src="../images/aboutRahulKondi.png"/>

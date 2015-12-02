@@ -2,7 +2,7 @@
 name:               "History Maker"
 
 # URL
-baseurl:            "http://rahulkondi.github.io/"
+baseurl:            ""
 #baseurl:            "" #For Root Domain
 permalink:          /:title
 
